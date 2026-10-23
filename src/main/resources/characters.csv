@@ -1,0 +1,6 @@
+type,name,level,hp,attack,defense,speed,mana,weapon_bonus,team
+WARRIOR,Aldric,3,120,18,15,8,0,4,HEROES
+MAGE,Lyra,3,80,6,6,10,60,0,HEROES
+ARCHER,Sylvan,3,95,14,8,14,0,2,HEROES
+MONSTER,Goblin,2,60,10,5,9,0,0,MONSTERS
+MONSTER,Orc,4,140,16,12,6,0,2,MONSTERS
