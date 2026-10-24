@@ -1,11 +1,11 @@
 # RPG Battle Simulator
 
-A console turn-based battle simulator in Java 21. Heroes (Warrior, Mage, Archer) fight monsters.
+A console turn-based battle simulator in Java 25. Heroes (Warrior, Mage, Archer) fight monsters.
 The characters are loaded from a CSV file at startup. After a victory, surviving heroes gain XP and level up.
 
 ## How to run
 
-Requirements: JDK 21+, Maven 3.9+.
+Requirements: JDK 25+, Maven 3.9+.
 
 ```bash
 mvn test                                   # run the JUnit tests
